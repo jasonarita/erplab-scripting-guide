@@ -1,0 +1,8 @@
+bin 1
+Frequent followed by correct response between 200 and 700 ms
+.{11;122;22;111:wb<x1>}{t<200-700>9}
+
+bin 2
+Rare followed by correct response between 200 and 700 ms
+.{21;112;12;121:wb<1x>}{t<200-700>9}
+

@@ -1,0 +1,4 @@
+   22 "Frequent_Digit"     1 "Frequent Category (Digit)"
+   12    "Rare_Letter"     2 "Rare Category (Letter)"
+    9      "Corr_Resp"    []                   ""
+    8      "Err_Resp"    []                   ""

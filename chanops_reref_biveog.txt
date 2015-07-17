@@ -1,0 +1,17 @@
+nch1 = ch1 - ( .5*15 )                   
+nch2 = ch2 - ( .5*15 )                   
+nch3 = ch3 - ( .5*15 )                   
+nch4 = ch4 - ( .5*15 )                   
+nch5 = ch5 - ( .5*15 )                   
+nch6 = ch6 - ( .5*15 )                   
+nch7 = ch7 - ( .5*15 )                   
+nch8 = ch8 - ( .5*15 )                   
+nch9 = ch9 - ( .5*15 )                   
+nch10 = ch10 - ( .5*15 )                 
+nch11 = ch11 - ( .5*15 )                 
+nch12 = ch12 - ( .5*15 )                 
+nch13 = ch13 - ( .5*15 )                 
+nch14 = ch14 - ((ch8+ch9)/2) label biVEOG
+nch15 = ch14                             
+nch16 = ch15                             
+nch17 = ch16                             

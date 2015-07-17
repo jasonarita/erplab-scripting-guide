@@ -1,0 +1,7 @@
+bin 1
+Frequent followed by correct response
+.{11;122;22;111}{9}
+
+bin 2
+Rare followed by correct response
+.{21;112;12;121}{9}

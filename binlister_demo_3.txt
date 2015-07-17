@@ -1,0 +1,8 @@
+bin 1
+Frequent followed by correct response without incorrect response
+.{11;122;22;111}{t<200-1000>~8}{t<200-1000>9}
+
+bin 2
+Rare followed by correct response without incorrect response
+.{21;112;12;121}{t<200-1000>~8}{t<200-1000>9}
+

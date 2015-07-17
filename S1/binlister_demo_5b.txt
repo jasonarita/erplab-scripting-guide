@@ -1,0 +1,8 @@
+bin 1
+Frequent followed by correct response between 200 and 700 ms and preceded by frequent with flag 1 set
+{t<1000-2000>11;122;22;11:fb<x1>}.{11;122;22;111}{t<200-700>9}
+
+bin 2
+Rare followed by correct response between 200 and 700 ms and preceded by rare with flag 1x set
+{t<1000-2000>21;112;12;121:fb<1x>}.{21;112;12;121:wb<1x>}{t<200-700>9}
+

@@ -1,0 +1,15 @@
+bin 1
+Frequent preceded by frequent
+{11;122;22;111}{8;9}.{11;122;22;111}
+
+bin 2
+Frequent preceded by rare
+{21;112;12;121}{8;9}.{11;122;22;111}
+
+bin 3
+Rare preceded by frequent
+{11;122;22;111}{8;9}.{21;112;12;121}
+
+bin 4
+Rare preceded by rare
+{21;112;12;121}{8;9}.{21;112;12;121}

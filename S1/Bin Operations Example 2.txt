@@ -1,0 +1,4 @@
+nb1 = b3 label Rare minus Frequent difference wave
+nb2 = b1 label Rare                               
+nb3 = b2 label Frequent                           
+nb4 = sqrt((b1*b1) + (b2*b2)) label Vector length 
